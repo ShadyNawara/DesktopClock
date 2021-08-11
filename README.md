@@ -13,3 +13,7 @@ There are 2 pre-built binaries available
 
 - A self contained clickonce setup (250mb)
 - An executable only version that requires .net 6 (87kb)
+
+## Start when Windows starts
+you can follow the instructions in this guide
+https://support.microsoft.com/en-us/windows/add-an-app-to-run-automatically-at-startup-in-windows-10-150da165-dcd9-7230-517b-cf3c295d89dd
